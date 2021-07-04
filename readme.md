@@ -1,5 +1,7 @@
 day planner
 
+deploment link https://pdubb05.github.io/dayplanner/
+
 current date on top of calender
 
 show text areas for business hours
